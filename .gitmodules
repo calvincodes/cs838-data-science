@@ -4,3 +4,6 @@
 [submodule "stage-2"]
 	path = stage-2
 	url = https://github.com/calvincodes/movies-data-web-crawler.git
+[submodule "stage-3"]
+	path = stage-3
+	url = https://github.com/SrujanaN/CS839_Stage3.git
