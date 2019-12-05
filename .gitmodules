@@ -1,3 +1,6 @@
 [submodule "stage-1"]
 	path = stage-1
 	url = https://github.com/calvincodes/location-extractor-from-text-documents.git
+[submodule "stage-2"]
+	path = stage-2
+	url = https://github.com/calvincodes/movies-data-web-crawler.git
